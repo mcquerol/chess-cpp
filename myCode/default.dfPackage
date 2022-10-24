@@ -1,0 +1,146 @@
+package id2nt2vkwnssjzokwnssk1t;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:cpp#Class#CGame:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}
+/**
+@__ref <oiref:cpp#Class#CPlayer:oiref><oihard>
+@__modelType reference 
+*/
+class reference2 {
+}
+/**
+@__ref <oiref:cpp#Class#CPiece:oiref><oihard>
+@__modelType reference 
+*/
+class reference3 {
+}
+/**
+@__ref <oiref:cpp#Class#CBoard:oiref><oihard>
+@__modelType reference 
+*/
+class reference4 {
+}
+/**
+@__ref <oiref:cpp#Class#CPawn:oiref><oihard>
+@__modelType reference 
+*/
+class reference5 {
+}
+/**
+@__ref <oiref:cpp#Class#CRook:oiref><oihard>
+@__modelType reference 
+*/
+class reference6 {
+}
+/**
+@__ref <oiref:cpp#Class#CKnight:oiref><oihard>
+@__modelType reference 
+*/
+class reference7 {
+}
+/**
+@__ref <oiref:cpp#Class#CBishop:oiref><oihard>
+@__modelType reference 
+*/
+class reference8 {
+}
+/**
+@__ref <oiref:cpp#Class#CQueen:oiref><oihard>
+@__modelType reference 
+*/
+class reference9 {
+}
+/**
+@__ref <oiref:cpp#Class#CKing:oiref><oihard>
+@__modelType reference 
+*/
+class reference10 {
+}
+/**
+@__ref <oiref:cpp#Class#CConsoleView:oiref><oihard>
+@__modelType reference 
+*/
+class reference1 {
+}
+}/**
+@__tags
+@shapeType ClassDiagram 
+@changelog rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAAFc3IADmphdmEubGFuZy5Mb25nO4vkkMyPI98CAAFKAAV2
+YWx1ZXhyABBqYXZhLmxhbmcuTnVtYmVyhqyVHQuU4IsCAAB4cAAAAX27Y4AAc3IAE2phdmEudXRp
+bC5BcnJheUxpc3R4gdIdmcdhnQMAAUkABHNpemV4cAAAAAF3BAAAAApzcgAlZGUubW5sLmRvY2Jv
+b2s0VEEuaW1wbC5DaGFuZ2VMb2dFbnRyeQeNjrX5qiSfAgADTAAIaG9zdG5hbWV0ABJMamF2YS9s
+YW5nL1N0cmluZztMAARuYW1lcQB+AAhMAAR1c2VycQB+AAh4cHQAD0RFU0tUT1AtMTBTVUYyTXQA
+CTxkZWZhdWx0PnQAD01hdGVvIEMuIFF1ZXJvbHhzcQB+AAIAAAF9psoQAHNxAH4ABQAAAAF3BAAA
+AApzcQB+AAd0AA9ERVNLVE9QLTEwU1VGMk10AAk8ZGVmYXVsdD50AA9NYXRlbyBDLiBRdWVyb2x4
+c3EAfgACAAABfX2XMABzcQB+AAUAAAABdwQAAAAKc3EAfgAHdAAPREVTS1RPUC0xMFNVRjJNdAAJ
+PGRlZmF1bHQ+dAAPTWF0ZW8gQy4gUXVlcm9seHNxAH4AAgAAAX2r8GwAc3EAfgAFAAAAAXcEAAAA
+CnNxAH4AB3QAD0RFU0tUT1AtMTBTVUYyTXQACTxkZWZhdWx0PnQAD01hdGVvIEMuIFF1ZXJvbHhz
+cQB+AAIAAAF9c0p4AHNxAH4ABQAAAAF3BAAAAApzcQB+AAd0AA9ERVNLVE9QLTEwU1VGMk10AAk8
+ZGVmYXVsdD50AA9NYXRlbyBDLiBRdWVyb2x4eA==
+@elementChangelogs rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAALdAAdPG9pcmVmOmNwcCNDbGFzcyNDUm9vazpvaXJlZj5w
+dAAdPG9pcmVmOmNwcCNDbGFzcyNDUGF3bjpvaXJlZj5wdAAfPG9pcmVmOmNwcCNDbGFzcyNDUGxh
+eWVyOm9pcmVmPnB0ACQ8b2lyZWY6Y3BwI0NsYXNzI0NDb25zb2xlVmlldzpvaXJlZj5wdAAdPG9p
+cmVmOmNwcCNDbGFzcyNDR2FtZTpvaXJlZj5wdAAePG9pcmVmOmNwcCNDbGFzcyNDUXVlZW46b2ly
+ZWY+cHQAHjxvaXJlZjpjcHAjQ2xhc3MjQ1BpZWNlOm9pcmVmPnNxAH4AAD9AAAAAAAAMdwgAAAAQ
+AAAAAnNyAA5qYXZhLmxhbmcuTG9uZzuL5JDMjyPfAgABSgAFdmFsdWV4cgAQamF2YS5sYW5nLk51
+bWJlcoaslR0LlOCLAgAAeHAAAAF9u2OAAHNyABNqYXZhLnV0aWwuQXJyYXlMaXN0eIHSHZnHYZ0D
+AAFJAARzaXpleHAAAAABdwQAAAAKc3IAJWRlLm1ubC5kb2Nib29rNFRBLmltcGwuQ2hhbmdlTG9n
+RW50cnkHjY61+aoknwIAA0wACGhvc3RuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7TAAEbmFtZXEA
+fgAQTAAEdXNlcnEAfgAQeHB0AA9ERVNLVE9QLTEwU1VGMk10AAZDUGllY2V0AA9NYXRlbyBDLiBR
+dWVyb2x4c3EAfgAKAAABfbEWyABzcQB+AA0AAAABdwQAAAAKc3EAfgAPdAAPREVTS1RPUC0xMFNV
+RjJNdAAGQ1BpZWNldAAPTWF0ZW8gQy4gUXVlcm9seHh0AB88b2lyZWY6Y3BwI0NsYXNzI0NCaXNo
+b3A6b2lyZWY+cHQAHTxvaXJlZjpjcHAjQ2xhc3MjQ0tpbmc6b2lyZWY+cHQAHjxvaXJlZjpjcHAj
+Q2xhc3MjQ0JvYXJkOm9pcmVmPnNxAH4AAD9AAAAAAAAMdwgAAAAQAAAAAXNxAH4ACgAAAX27Y4AA
+c3EAfgANAAAAAXcEAAAACnNxAH4AD3EAfgASdAAGQ0JvYXJkcQB+ABR4eHQAHzxvaXJlZjpjcHAj
+Q2xhc3MjQ0tuaWdodDpvaXJlZj5weA==
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:<oiref:cpp#Class#CPawn:oiref>=130,660,144,101,1:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CConsoleView:oiref><Autodependency><oiref:cpp#Class#CPiece:oiref>=1015,340,715,390:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CBoard#lnkCPiece:oiref>=700,370,700,410:oigroup>
+<oigroup:<oiref:cpp#Class#CBishop:oiref>=640,660,144,101,1:oigroup>
+<oigroup:<oiref:cpp#Class#CGame:oiref>=450,40,150,150,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CBoard#board:oiref>=700,370,700,410:oigroup>
+<oigroup:<oiref:cpp#Member#CBoard#$$constructor$$#(##)#:oiref>=640,150,174,16,1:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CPlayer:oiref><Autodependency><oiref:cpp#Class#CBoard:oiref>=286,350,681,320:oigroup>
+<oigroup:<oiref:cpp#Extends#CBishop#CPiece:oiref>=662,660,662,610:oigroup>
+<oigroup:<oiref:cpp#Extends#CKnight#CPiece:oiref>=575,660,575,610:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CConsoleView:oiref><Autodependency><oiref:cpp#Class#CBoard:oiref>=920,270,850,270:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CPiece:oiref><Autodependency><oiref:cpp#Class#CBoard:oiref>=703,390,703,320:oigroup>
+<oigroup:<oiref:cpp#Class#CConsoleView:oiref>=920,200,190,140,0:oigroup>
+<oigroup:<oiref:cpp#Extends#CPawn#CPiece:oiref>=202,660,525,610:oigroup>
+<oigroup:<oiref:cpp#Member#CPiece#checkNeighbors#(##)#:oiref>=500,500,224,16,1:oigroup>
+<oigroup:<oiref:cpp#Class#CKing:oiref>=1000,660,144,117,1:oigroup>
+<oigroup:<oiref:cpp#Member#CPiece#$$constructor$$#(##)#:oiref>=500,460,224,16,1:oigroup>
+<oigroup:<oiref:cpp#Class#CPiece:oiref>=500,390,230,220,0:oigroup>
+<oigroup:<oiref:cpp#Class#CRook:oiref>=300,660,144,101,1:oigroup>
+<oigroup:<oiref:cpp#Extends#CKing#CPiece:oiref>=1072,660,707,610:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CBoard:oiref><Autodependency><oiref:cpp#Class#CPiece:oiref>=692,320,692,390:oigroup>
+<oigroup:<oiref:cpp#Class#CKnight:oiref>=470,660,144,101,1:oigroup>
+<oigroup:<oiref:cpp#Class#CPlayer:oiref>=210,350,153,140,0:oigroup>
+<oigroup:<oiref:cpp#Extends#CQueen#CPiece:oiref>=892,660,684,610:oigroup>
+<oigroup:<oiref:design#Class#id9b8g3kwnssjzokwnst06u.diagram:oiref>=819,176,83,95,1:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CPlayer:oiref><Autodependency><oiref:cpp#Class#CPiece:oiref>=363,440,500,440:oigroup>
+<oigroup:<oiref:cpp#Extends#CRook#CPiece:oiref>=372,660,550,610:oigroup>
+<oigroup:<oiref:cpp#Class#CQueen:oiref>=820,660,144,101,1:oigroup>
+<oigroup:<oiref:cpp#Class#CBoard:oiref>=670,140,180,180,0:oigroup>
+*/
+class __positions {
+}
